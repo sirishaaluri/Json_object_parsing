@@ -10,4 +10,4 @@ Value retrieval by parsing Json for the input key provided
 - Can alter the inputs and key to be passed to python function for different output expectations.
 
 ## Executed output screenshorts
-https://github.com/sirishaaluri/Json_object_parsing/blob/main/Json_parsing_output.png
+![output screenshot](Json_parsing_output.png)
